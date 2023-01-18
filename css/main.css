@@ -1,4 +1,6 @@
 .container--beige {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   background-color: #e7d3c2;
 }/*# sourceMappingURL=main.css.map */
